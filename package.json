@@ -1,0 +1,16 @@
+{
+  "name": "lab-8-weather-app-node-js-and-express-js-pearly-li",
+  "version": "1.0.0",
+  "description": "Build a web app that would ask the user to enter a city name and to output the weather temperature, description, and in image showing the current conditions using the openweathermap.org API. ![alt text](images/image.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.1"
+  }
+}
